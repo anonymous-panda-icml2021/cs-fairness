@@ -12,5 +12,5 @@ python download.py
 tar -zxvf data.tar.gz
 ```
 
-## Scripts for cat and dog experiments
-The scripts for running the cat and dog experiments can be found in the folder `scripts/`
+## Scripts
+Sample scripts for running experiments can be found in `scripts/`

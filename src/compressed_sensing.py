@@ -225,7 +225,7 @@ if __name__ == '__main__':
     elif HPARAMS.net == 'glow':
         HPARAMS.image_size = 256
     elif HPARAMS.net == 'ncsnv2':
-        if HPARAMS.dataset == 'ffhq':
+        if 'ffhq' in HPARAMS.dataset :
             HPARAMS.image_size = 256
         elif HPARAMS.dataset == 'celebA':
             HPARAMS.image_size = 64
