@@ -1,0 +1,14 @@
+torch==1.7
+torchvision
+numpy
+scipy
+matplotlib
+pypng
+ipdb
+gdown
+ipython
+tensorflow-gpu==1.8.0
+keras==2.2.0
+pillow==5.2.0
+scikit-image
+ninja
