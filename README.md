@@ -1,7 +1,8 @@
 # cs-fairness
 
 ## Setup
-From the main directory, run the following:
+The file `download.py` contains the Google drive link to our trained generative models and test images. To automate
+the setup process, from the main directory, run the following:
 ```
 git submodule update --init --recursive
 python3.6 -m venv env
